@@ -1,6 +1,6 @@
 # bg_changer
 
-A new Flutter project.
+Complete Code for learning that how to change a background in flutter.
 
 ## Getting Started
 
